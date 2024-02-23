@@ -81,10 +81,10 @@ class User extends ActiveRecord implements UserInterface
     /**
      * {@inheritDoc}
      */
-    public function getImage()
-    {
-        return $this->image;
-    }
+//    public function getImage()
+//    {
+//        return $this->image;
+//    }
 
     /**
      * {@inheritDoc}
