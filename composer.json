@@ -1,5 +1,5 @@
 {
-    "name": "simialbi/yii2-kanban",
+    "name": "pritok312/yii2-kanban-board",
     "type": "yii2-extension",
     "description": "Kanban board module for yii2",
     "keywords": [
@@ -18,8 +18,8 @@
         }
     ],
     "support": {
-        "source": "https://github.com/simialbi/yii2-kanban",
-        "issues": "https://github.com/simialbi/yii2-kanban/issues"
+        "source": "https://github.com/pritok312/yii2-kanban-board",
+        "issues": "https://github.com/pritok312/yii2-kanban-board/issues"
     },
     "minimum-stability": "beta",
     "require": {
