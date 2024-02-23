@@ -49,10 +49,10 @@ class User extends ActiveRecord implements UserInterface
     /**
      * {@inheritDoc}
      */
-    public static function findIdentities()
-    {
-        return static::find()->all();
-    }
+//    public static function findIdentities()
+//    {
+//        return static::find()->all();
+//    }
 
     /**
      * {@inheritDoc}
