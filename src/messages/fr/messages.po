@@ -1,0 +1,776 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "simialbi/kanban"
+msgid "Add comment"
+msgstr "Ajouter un commentaire"
+
+msgctxt "simialbi/kanban"
+msgid "Assigned"
+msgstr "Attribué"
+
+msgctxt "simialbi/kanban"
+msgid "Close"
+msgstr "Fermer"
+
+msgctxt "simialbi/kanban"
+msgid "Copy link"
+msgstr "Copier le lien"
+
+msgctxt "simialbi/kanban"
+msgid "Copy task"
+msgstr "Copier la tâche"
+
+msgctxt "simialbi/kanban"
+msgid "Create"
+msgstr "Créer"
+
+msgctxt "simialbi/kanban"
+msgid "Delete series"
+msgstr "Effacer la série"
+
+msgctxt "simialbi/kanban"
+msgid "Execution date"
+msgstr "Date d'éxecution"
+
+msgctxt "simialbi/kanban"
+msgid "Filter by board"
+msgstr "Filtrer par plan"
+
+msgctxt "simialbi/kanban"
+msgid "Filter by keyword"
+msgstr "Filtrer par mot-clé"
+
+msgctxt "simialbi/kanban"
+msgid "Go to ticket"
+msgstr "Aller au ticket"
+
+msgctxt "simialbi/kanban"
+msgid "Include"
+msgstr "Inclure"
+
+msgctxt "simialbi/kanban"
+msgid "Loading..."
+msgstr "Chargement..."
+
+msgctxt "simialbi/kanban"
+msgid "Not assigned"
+msgstr "Non attribué"
+
+msgctxt "simialbi/kanban"
+msgid "Save"
+msgstr "Sauvegarder"
+
+msgctxt "simialbi/kanban"
+msgid "Show done ({cnt,number,integer})"
+msgstr "Afficher les terminés ({cnt,number,integer})"
+
+msgctxt "simialbi/kanban"
+msgid "Update series"
+msgstr "Modifier la série"
+
+msgctxt "simialbi/kanban"
+msgid "View history"
+msgstr "Voir l'historique"
+
+msgctxt "simialbi/kanban/chart"
+msgid "Assignee"
+msgstr "Membres"
+
+msgctxt "simialbi/kanban/chart"
+msgid "Board"
+msgstr "Plan"
+
+msgctxt "simialbi/kanban/chart"
+msgid "Bucket"
+msgstr "Bucket"
+
+msgctxt "simialbi/kanban/chart"
+msgid "Status"
+msgstr "Statut"
+
+msgctxt "simialbi/kanban/model/attachment"
+msgid "Created at"
+msgstr "Créé le"
+
+msgctxt "simialbi/kanban/model/attachment"
+msgid "Created by"
+msgstr "Créé par"
+
+msgctxt "simialbi/kanban/model/attachment"
+msgid "Id"
+msgstr "ID"
+
+msgctxt "simialbi/kanban/model/attachment"
+msgid "Mime type"
+msgstr "Mime Type"
+
+msgctxt "simialbi/kanban/model/attachment"
+msgid "Name"
+msgstr "Nom"
+
+msgctxt "simialbi/kanban/model/attachment"
+msgid "Path"
+msgstr "Chemin"
+
+msgctxt "simialbi/kanban/model/attachment"
+msgid "Show on card"
+msgstr "Afficher sur la carte"
+
+msgctxt "simialbi/kanban/model/attachment"
+msgid "Size"
+msgstr "Taille"
+
+msgctxt "simialbi/kanban/model/attachment"
+msgid "Task"
+msgstr "Tâche"
+
+msgctxt "simialbi/kanban/model/attachment"
+msgid "Updated at"
+msgstr "Modifié le"
+
+msgctxt "simialbi/kanban/model/attachment"
+msgid "Updated by"
+msgstr "Modifié par"
+
+msgctxt "simialbi/kanban/model/board"
+msgid "Created at"
+msgstr "Créé le"
+
+msgctxt "simialbi/kanban/model/board"
+msgid "Created by"
+msgstr "Créé par"
+
+msgctxt "simialbi/kanban/model/board"
+msgid "Id"
+msgstr "ID"
+
+msgctxt "simialbi/kanban/model/board"
+msgid "Image"
+msgstr "Image"
+
+msgctxt "simialbi/kanban/model/board"
+msgid "Is public"
+msgstr "Public"
+
+msgctxt "simialbi/kanban/model/board"
+msgid "Name"
+msgstr "Nom"
+
+msgctxt "simialbi/kanban/model/board"
+msgid "Updated at"
+msgstr "Modifié le"
+
+msgctxt "simialbi/kanban/model/board"
+msgid "Updated by"
+msgstr "Modifié par"
+
+msgctxt "simialbi/kanban/model/bucket"
+msgid "Board"
+msgstr "Tableau de bord"
+
+msgctxt "simialbi/kanban/model/bucket"
+msgid "Created at"
+msgstr "Créé le"
+
+msgctxt "simialbi/kanban/model/bucket"
+msgid "Created by"
+msgstr "Créé par"
+
+msgctxt "simialbi/kanban/model/bucket"
+msgid "Id"
+msgstr "ID"
+
+msgctxt "simialbi/kanban/model/bucket"
+msgid "Name"
+msgstr "Nom"
+
+msgctxt "simialbi/kanban/model/bucket"
+msgid "Sort"
+msgstr "Traige"
+
+msgctxt "simialbi/kanban/model/bucket"
+msgid "Updated at"
+msgstr "Modifié le"
+
+msgctxt "simialbi/kanban/model/bucket"
+msgid "Updated by"
+msgstr "Modifié par"
+
+msgctxt "simialbi/kanban/model/checklist-element"
+msgid "End date"
+msgstr "Date d'échéance"
+
+msgctxt "simialbi/kanban/model/checklist-element"
+msgid "Id"
+msgstr "ID"
+
+msgctxt "simialbi/kanban/model/checklist-element"
+msgid "Is done"
+msgstr "Terminé"
+
+msgctxt "simialbi/kanban/model/checklist-element"
+msgid "Name"
+msgstr "Nom"
+
+msgctxt "simialbi/kanban/model/checklist-element"
+msgid "Sort"
+msgstr "Triage"
+
+msgctxt "simialbi/kanban/model/checklist-element"
+msgid "Task"
+msgstr "Tâche"
+
+msgctxt "simialbi/kanban/model/comment"
+msgid "Created at"
+msgstr "Créé le"
+
+msgctxt "simialbi/kanban/model/comment"
+msgid "Created by"
+msgstr "Créé par"
+
+msgctxt "simialbi/kanban/model/comment"
+msgid "Id"
+msgstr "ID"
+
+msgctxt "simialbi/kanban/model/comment"
+msgid "Task"
+msgstr "Tâche"
+
+msgctxt "simialbi/kanban/model/comment"
+msgid "Text"
+msgstr "Texte"
+
+msgctxt "simialbi/kanban/model/link"
+msgid "Created at"
+msgstr "Créé le"
+
+msgctxt "simialbi/kanban/model/link"
+msgid "Created by"
+msgstr "Créé par"
+
+msgctxt "simialbi/kanban/model/link"
+msgid "Id"
+msgstr "ID"
+
+msgctxt "simialbi/kanban/model/link"
+msgid "Show on card"
+msgstr "Afficher sur la carte"
+
+msgctxt "simialbi/kanban/model/link"
+msgid "Task"
+msgstr "Tâche"
+
+msgctxt "simialbi/kanban/model/link"
+msgid "URL"
+msgstr "URL"
+
+msgctxt "simialbi/kanban/model/link"
+msgid "Updated at"
+msgstr "Modifié le"
+
+msgctxt "simialbi/kanban/model/link"
+msgid "Updated by"
+msgstr "Modifié par"
+
+msgctxt "simialbi/kanban/model/monitoring-form"
+msgid "Id"
+msgstr "ID"
+
+msgctxt "simialbi/kanban/model/monitoring-form"
+msgid "Members"
+msgstr "Membres"
+
+msgctxt "simialbi/kanban/model/monitoring-form"
+msgid "Name"
+msgstr "Nom"
+
+msgctxt "simialbi/kanban/model/monitoring-list"
+msgid "Created at"
+msgstr "Créé le"
+
+msgctxt "simialbi/kanban/model/monitoring-list"
+msgid "Created by"
+msgstr "Créé par"
+
+msgctxt "simialbi/kanban/model/monitoring-list"
+msgid "Id"
+msgstr "ID"
+
+msgctxt "simialbi/kanban/model/monitoring-list"
+msgid "Name"
+msgstr "Nom"
+
+msgctxt "simialbi/kanban/model/monitoring-list"
+msgid "Updated at"
+msgstr "Modifié le"
+
+msgctxt "simialbi/kanban/model/monitoring-list"
+msgid "Updated by"
+msgstr "Modifié par"
+
+msgctxt "simialbi/kanban/model/monitoring-member"
+msgid "Created at"
+msgstr "Créé le"
+
+msgctxt "simialbi/kanban/model/monitoring-member"
+msgid "Created by"
+msgstr "Créé par"
+
+msgctxt "simialbi/kanban/model/monitoring-member"
+msgid "Id"
+msgstr "ID"
+
+msgctxt "simialbi/kanban/model/monitoring-member"
+msgid "List"
+msgstr "Liste"
+
+msgctxt "simialbi/kanban/model/monitoring-member"
+msgid "User"
+msgstr "Utilisateur"
+
+msgctxt "simialbi/kanban/model/search-monitoring-list"
+msgid "Members"
+msgstr "Membres"
+
+msgctxt "simialbi/kanban/model/task"
+msgid "Assignee"
+msgstr "Membres"
+
+msgctxt "simialbi/kanban/model/task"
+msgid "Responsible"
+msgstr "Responsable"
+
+msgctxt "simialbi/kanban/model/task"
+msgid "Board"
+msgstr "Plan"
+
+msgctxt "simialbi/kanban/model/task"
+msgid "Bucket"
+msgstr "Bucket"
+
+msgctxt "simialbi/kanban/model/task"
+msgid "Created at"
+msgstr "Créé le"
+
+msgctxt "simialbi/kanban/model/task"
+msgid "Created by"
+msgstr "Créé par"
+
+msgctxt "simialbi/kanban/model/task"
+msgid "Description"
+msgstr "Description"
+
+msgctxt "simialbi/kanban/model/task"
+msgid "End date"
+msgstr "Date d'échéance"
+
+msgctxt "simialbi/kanban/model/task"
+msgid "Finished at"
+msgstr "Terminée le"
+
+msgctxt "simialbi/kanban/model/task"
+msgid "Finished by"
+msgstr "Terminée par"
+
+msgctxt "simialbi/kanban/model/task"
+msgid "Id"
+msgstr "ID"
+
+msgctxt "simialbi/kanban/model/task"
+msgid "Is recurring"
+msgstr "Est récurrent"
+
+msgctxt "simialbi/kanban/model/task"
+msgid "Recurrence"
+msgstr "Périodicité"
+
+msgctxt "simialbi/kanban/model/task"
+msgid "Show checklist on card"
+msgstr "Afficher checkliste sur la carte"
+
+msgctxt "simialbi/kanban/model/task"
+msgid "Show description on card"
+msgstr "Afficher description sur la carte"
+
+msgctxt "simialbi/kanban/model/task"
+msgid "Show links on card"
+msgstr "Afficher liens sur la carte"
+
+msgctxt "simialbi/kanban/model/task"
+msgid "Sort"
+msgstr "Position de tri"
+
+msgctxt "simialbi/kanban/model/task"
+msgid "Start date"
+msgstr "Date de début"
+
+msgctxt "simialbi/kanban/model/task"
+msgid "Status"
+msgstr "Statut"
+
+msgctxt "simialbi/kanban/model/task"
+msgid "Subject"
+msgstr "Nom de la tâche"
+
+msgctxt "simialbi/kanban/model/task"
+msgid "Updated at"
+msgstr "Modifié le"
+
+msgctxt "simialbi/kanban/model/task"
+msgid "Updated by"
+msgstr "Modifié par"
+
+msgctxt "simialbi/kanban/model/task-copy-form"
+msgid "Assignment"
+msgstr "Attribution"
+
+msgctxt "simialbi/kanban/model/task-copy-form"
+msgid "Attachments"
+msgstr "Annexes"
+
+msgctxt "simialbi/kanban/model/task-copy-form"
+msgid "Bucket Id"
+msgstr "Bucket"
+
+msgctxt "simialbi/kanban/model/task-copy-form"
+msgid "Checklist"
+msgstr "Checkliste"
+
+msgctxt "simialbi/kanban/model/task-copy-form"
+msgid "Dates"
+msgstr "Dates"
+
+msgctxt "simialbi/kanban/model/task-copy-form"
+msgid "Description"
+msgstr "Description"
+
+msgctxt "simialbi/kanban/model/task-copy-form"
+msgid "Links"
+msgstr "Liens"
+
+msgctxt "simialbi/kanban/model/task-copy-form"
+msgid "Status"
+msgstr "Progrès"
+
+msgctxt "simialbi/kanban/model/task-copy-form"
+msgid "Subject"
+msgstr "Nom de la nouvelle tâche"
+
+msgctxt "simialbi/kanban/monitoring"
+msgid "Export date"
+msgstr "Date d'exportation"
+
+msgctxt "simialbi/kanban/plan"
+msgid "All plans"
+msgstr "Tous les plans"
+
+msgctxt "simialbi/kanban/plan"
+msgid "Assigned to"
+msgstr "Attribué à"
+
+msgctxt "simialbi/kanban/plan"
+msgid "Board"
+msgstr "Plan"
+
+msgctxt "simialbi/kanban/plan"
+msgid "Bucket"
+msgstr "Bucket"
+
+msgctxt "simialbi/kanban/plan"
+msgid "Charts"
+msgstr "Diagrammes"
+
+msgctxt "simialbi/kanban/plan"
+msgid "Create board"
+msgstr "Nouveau plan"
+
+msgctxt "simialbi/kanban/plan"
+msgid "Create bucket"
+msgstr "Ajouter une nouvelle bucket"
+
+msgctxt "simialbi/kanban/plan"
+msgid "Create plan"
+msgstr "Nouveau plan"
+
+msgctxt "simialbi/kanban/plan"
+msgid "Delegated tasks"
+msgstr "Tâches déléguées"
+
+msgctxt "simialbi/kanban/plan"
+msgid "Responsible"
+msgstr "Responsable"
+
+msgctxt "simialbi/kanban/plan"
+msgid "Delete plan"
+msgstr "Effacer plan"
+
+msgctxt "simialbi/kanban/plan"
+msgid "End date"
+msgstr "Date d'échéance"
+
+msgctxt "simialbi/kanban/plan"
+msgid "Group by <b>{group}</b>"
+msgstr "Grouper par <b>{group}</b>"
+
+msgctxt "simialbi/kanban/plan"
+msgid "Kanban Hub"
+msgstr "Kanban Hub"
+
+msgctxt "simialbi/kanban/plan"
+msgid "List view"
+msgstr "Vue en liste"
+
+msgctxt "simialbi/kanban/plan"
+msgid "Monitoring"
+msgstr "Surveillance"
+
+msgctxt "simialbi/kanban/plan"
+msgid "My tasks"
+msgstr "Mes tâches"
+
+msgctxt "simialbi/kanban/plan"
+msgid "Schedule"
+msgstr "Calendrier"
+
+msgctxt "simialbi/kanban/plan"
+msgid "Status"
+msgstr "Statut"
+
+msgctxt "simialbi/kanban/plan"
+msgid "Task view"
+msgstr "Vision globale des tâches"
+
+msgctxt "simialbi/kanban/plan"
+msgid "Update plan"
+msgstr "Modifier le plan"
+
+msgctxt "simialbi/kanban/plan"
+msgid "assignee"
+msgstr "Attribué à"
+
+msgctxt "simialbi/kanban/plan"
+msgid "bucket"
+msgstr "Bucket"
+
+msgctxt "simialbi/kanban/plan"
+msgid "date"
+msgstr "Date d'échéance"
+
+msgctxt "simialbi/kanban/plan"
+msgid "status"
+msgstr "Statut"
+
+msgctxt "simialbi/kanban/plan/notification"
+msgid "Board <b>{board}</b> created"
+msgstr "Plan <b>{board}</b> créé"
+
+msgctxt "simialbi/kanban/plan/notification"
+msgid "Board <b>{board}</b> updated"
+msgstr "Plan <b>{board}</b> modifié"
+
+msgctxt "simialbi/kanban/recurrence"
+msgid "April"
+msgstr "Avril"
+
+msgctxt "simialbi/kanban/recurrence"
+msgid "August"
+msgstr "Août"
+
+msgctxt "simialbi/kanban/recurrence"
+msgid "Daily"
+msgstr "Quotidienne"
+
+msgctxt "simialbi/kanban/recurrence"
+msgid "Day {input1} of every {input2} month(s)."
+msgstr "Le {input1} tous les {input2} mois"
+
+msgctxt "simialbi/kanban/recurrence"
+msgid "December"
+msgstr "Décembre"
+
+msgctxt "simialbi/kanban/recurrence"
+msgid "February"
+msgstr "Février"
+
+msgctxt "simialbi/kanban/recurrence"
+msgid "Friday"
+msgstr "Vendredi"
+
+msgctxt "simialbi/kanban/recurrence"
+msgid "January"
+msgstr "Janvier"
+
+msgctxt "simialbi/kanban/recurrence"
+msgid "July"
+msgstr "Juillet"
+
+msgctxt "simialbi/kanban/recurrence"
+msgid "June"
+msgstr "Juin"
+
+msgctxt "simialbi/kanban/recurrence"
+msgid "March"
+msgstr "Mars"
+
+msgctxt "simialbi/kanban/recurrence"
+msgid "May"
+msgstr "Mai"
+
+msgctxt "simialbi/kanban/recurrence"
+msgid "Monday"
+msgstr "Lundi"
+
+msgctxt "simialbi/kanban/recurrence"
+msgid "Monthly"
+msgstr "Mensuelle"
+
+msgctxt "simialbi/kanban/recurrence"
+msgid "November"
+msgstr "Novembre"
+
+msgctxt "simialbi/kanban/recurrence"
+msgid "October"
+msgstr "Octobre"
+
+msgctxt "simialbi/kanban/recurrence"
+msgid "On the: {input1} {input2} of {input3}"
+msgstr "Dans le : {input1} {input2} de {input3}"
+
+msgctxt "simialbi/kanban/recurrence"
+msgid "On: {input1} {input2}"
+msgstr "Le : {input1} {input2}"
+
+msgctxt "simialbi/kanban/recurrence"
+msgid "Recur every {input} day(s)"
+msgstr "Tous les {input} jour(s)"
+
+msgctxt "simialbi/kanban/recurrence"
+msgid "Recur every {input} week(s) on:"
+msgstr "Tous les {input} semaine(s) le :"
+
+msgctxt "simialbi/kanban/recurrence"
+msgid "Recur every {input} year(s)"
+msgstr "Toutes les {input} an(s)"
+
+msgctxt "simialbi/kanban/recurrence"
+msgid "Recurrence Pattern"
+msgstr "Périodicité"
+
+msgctxt "simialbi/kanban/recurrence"
+msgid "Saturday"
+msgstr "Samedi"
+
+msgctxt "simialbi/kanban/recurrence"
+msgid "September"
+msgstr "Septembre"
+
+msgctxt "simialbi/kanban/recurrence"
+msgid "Sunday"
+msgstr "Dimanche"
+
+msgctxt "simialbi/kanban/recurrence"
+msgid "The {input1} {input2} of every {input3} month(s)"
+msgstr "Le {input1} {input2} tous les {input3} mois"
+
+msgctxt "simialbi/kanban/recurrence"
+msgid "Thursday"
+msgstr "Jeudi"
+
+msgctxt "simialbi/kanban/recurrence"
+msgid "Tuesday"
+msgstr "Mardi"
+
+msgctxt "simialbi/kanban/recurrence"
+msgid "Wednesday"
+msgstr "Mercredi"
+
+msgctxt "simialbi/kanban/recurrence"
+msgid "Weekly"
+msgstr "Hebdomadaire"
+
+msgctxt "simialbi/kanban/recurrence"
+msgid "Yearly"
+msgstr "Annuelle"
+
+msgctxt "simialbi/kanban/recurrence"
+msgid "fifth"
+msgstr "cinquième"
+
+msgctxt "simialbi/kanban/recurrence"
+msgid "first"
+msgstr "premier"
+
+msgctxt "simialbi/kanban/recurrence"
+msgid "fourth"
+msgstr "quatrième"
+
+msgctxt "simialbi/kanban/recurrence"
+msgid "last"
+msgstr "dernier"
+
+msgctxt "simialbi/kanban/recurrence"
+msgid "second"
+msgstr "deuxième"
+
+msgctxt "simialbi/kanban/recurrence"
+msgid "third"
+msgstr "troisième"
+
+msgctxt "simialbi/kanban/task"
+msgid "Attachments"
+msgstr "Annexes"
+
+msgctxt "simialbi/kanban/task"
+msgid "Checklist"
+msgstr "Checkliste"
+
+msgctxt "simialbi/kanban/task"
+msgid "Comments"
+msgstr "Commentaires"
+
+msgctxt "simialbi/kanban/task"
+msgid "Create an individual copy of this task for each of the selected users and assign it."
+msgstr "Créer une copie individuelle de cette tâche pour chaque utilisateur sélectionné et l'attribuer."
+
+msgctxt "simialbi/kanban/task"
+msgid "Create task per each user"
+msgstr "Tâche par utilisateur"
+
+msgctxt "simialbi/kanban/task"
+msgid "Created at {created,date} {created,time} by {creator}, last modified {updated,date} {updated,time} by {modifier}"
+msgstr "Crée le {created,date} {created,time} par {creator}, dernière modification le {updated,date} {updated,time} par {modifier}"
+
+msgctxt "simialbi/kanban/task"
+msgid "Done"
+msgstr "Terminé"
+
+msgctxt "simialbi/kanban/task"
+msgid "Finished at {finished,date} {finished,time} by {finisher}"
+msgstr "Terminée le {finished,date} {finished,time} par {finisher}"
+
+msgctxt "simialbi/kanban/task"
+msgid "In progress"
+msgstr "En cours"
+
+msgctxt "simialbi/kanban/task"
+msgid "Late"
+msgstr "Retardée"
+
+msgctxt "simialbi/kanban/task"
+msgid "Links"
+msgstr "Liens"
+
+msgctxt "simialbi/kanban/task"
+msgid "Not started"
+msgstr "Pas commencé"
+
