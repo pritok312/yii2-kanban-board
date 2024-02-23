@@ -49,10 +49,10 @@ class User extends ActiveRecord implements UserInterface
     /**
      * {@inheritDoc}
      */
-//    public static function findIdentities()
-//    {
-//        return static::find()->all();
-//    }
+    public static function findIdentities()
+    {
+        return static::find()->all();
+    }
 
     /**
      * {@inheritDoc}
@@ -81,32 +81,32 @@ class User extends ActiveRecord implements UserInterface
     /**
      * {@inheritDoc}
      */
-//    public function getImage()
-//    {
-//        return $this->image;
-//    }
+    public function getImage()
+    {
+        return $this->image;
+    }
 
     /**
      * {@inheritDoc}
      */
-//    public function getName()
-//    {
-//        return $this->first_name . ' ' . $this->last_name;
-//    }
-//
-//    /**
-//     * {@inheritDoc}
-//     */
-//    public function getEmail()
-//    {
-//        return $this->email;
-//    }
-//
-//    /**
-//     * {@inheritDoc}
-//     */
-//    public function getMobile()
-//    {
-//        return $this->mobile;
-//    }
+    public function getName()
+    {
+        return $this->first_name . ' ' . $this->last_name;
+    }
+
+    /**
+     * {@inheritDoc}
+     */
+    public function getEmail()
+    {
+        return $this->email;
+    }
+
+    /**
+     * {@inheritDoc}
+     */
+    public function getMobile()
+    {
+        return $this->mobile;
+    }
 }
