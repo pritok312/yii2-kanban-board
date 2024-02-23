@@ -13,13 +13,13 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-$ php composer.phar require --prefer-dist simialbi/yii2-kanban
+$ php composer.phar require --prefer-dist pritok312/yii2-kanban-board
 ```
 
 or add
 
 ```
-"simialbi/yii2-kanban": "^2.0.0"
+"pritok312/yii2-kanban-board": "^2.0.0"
 ```
 
 to the `require` section of your `composer.json`.
