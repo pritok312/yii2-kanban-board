@@ -89,24 +89,24 @@ class User extends ActiveRecord implements UserInterface
     /**
      * {@inheritDoc}
      */
-    public function getName()
-    {
-        return $this->first_name . ' ' . $this->last_name;
-    }
-
-    /**
-     * {@inheritDoc}
-     */
-    public function getEmail()
-    {
-        return $this->email;
-    }
-
-    /**
-     * {@inheritDoc}
-     */
-    public function getMobile()
-    {
-        return $this->mobile;
-    }
+//    public function getName()
+//    {
+//        return $this->first_name . ' ' . $this->last_name;
+//    }
+//
+//    /**
+//     * {@inheritDoc}
+//     */
+//    public function getEmail()
+//    {
+//        return $this->email;
+//    }
+//
+//    /**
+//     * {@inheritDoc}
+//     */
+//    public function getMobile()
+//    {
+//        return $this->mobile;
+//    }
 }
